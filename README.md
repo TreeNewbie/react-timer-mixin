@@ -15,7 +15,7 @@ everything will be properly cleaned up for you.
 Install the module directly from npm:
 
 ```
-npm install react-timer-mixin
+npm install typed-react-timer-mixin
 ```
 
 ## Example
