@@ -1,4 +1,6 @@
-# react-timer-mixin
+# typed-react-timer-mixin
+
+>react-timer-mixin with type definition
 
 Using bare setTimeout, setInterval, setImmediate and requestAnimationFrame calls
 is very dangerous because if you forget to cancel the request before the
